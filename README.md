@@ -86,4 +86,4 @@ The model utilizes a **Random Forest Classifier** which provides a robust predic
 
 ---
 
-*Developed by [Dhanu](https://github.com/Ithayaraj)*
+*Developed by [Ithayaraj](https://github.com/Ithayaraj)*
